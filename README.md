@@ -10,7 +10,7 @@
 ---
 ### 🛠️ Languages & Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,figma,tailwind,bootstrap,arduino,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,figma,tailwind,vscode" />
 </p>
 ---
 ### 📊 GitHub Stats:
