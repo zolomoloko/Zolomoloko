@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoljargal</h1>
-<h3 align="center">Anonymous Programmer & Full Stack Developer</h3>
+<h3 align="center"> Programmer & Full Stack Developer</h3>
 ---
 🧑‍💻 About Me:
 - 🔭 I’m currently learning **Software Engineering**
